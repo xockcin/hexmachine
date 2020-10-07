@@ -1,3 +1,8 @@
+// 
+// Title: HexMachine
+//
+// cf. https://create.arduino.cc/projecthub/xockcin/hex-machine-f23bb0
+//
 // This program takes a combination of four different buttons as an input, and returns the corresponding hex digit as an output.
 // 
 // This program illustrates two signature features of the C programming language: indexed arrays and bit shifting. 
